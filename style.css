@@ -57,6 +57,7 @@ img {
    width: 98vh;
    height: 31rem;
    margin: auto;
+   z-index: 0;
 }
 .report {
    height: 7rem;
