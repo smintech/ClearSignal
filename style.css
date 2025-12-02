@@ -66,11 +66,12 @@ img {
    border-radius: -2% 5%;
    color: green;
    background-color: white;
+   z-index: 0;
 }
 .categorywrapper{ 
    height: 1.5rem;
    width: 10rem;
-   transform: translate(5rem,35rem);
+   transform: translate(7rem,34rem);
    background-color: white;
    color: green;
    border-radius: -10%;
