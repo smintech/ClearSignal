@@ -18,8 +18,9 @@ body {
 }
 .moveup {
    position: absolute;
-   transform: translateY(0);
+   transform: translate(0);
    z-index: 1;
+   left: 10%;
 }
 .roboto-font {
   font-family: "Roboto", sans-serif;
