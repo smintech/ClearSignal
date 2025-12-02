@@ -48,6 +48,12 @@ h {
    top: 4.5%;
    left: 5rem;
 }
+img {
+   position: absolute;
+   top: 5%;
+   width: 100rem;
+   height: 10rem;
+}
 .report {
    height: 7rem;
    width: 17rem;
