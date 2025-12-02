@@ -6,13 +6,13 @@ body, html {
 }
 .bgvid {
     position: relative;
-    width: 100%;
+    width: 100%vw;
     height: 100vh;
     overflow: auto;
 }
 #cover {
-   width: 100%;
-    height: 100%;
+   width: 100%vw;
+    height: 100%vh;
     object-fit: cover;
     position: absolute;
     top: 0;
@@ -21,6 +21,7 @@ body, html {
 }
 .moveup {
    position: absolute;
+   display: flex;
    top: -3%;
    z-index: 1;
    left: 40%;
