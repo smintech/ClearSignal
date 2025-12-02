@@ -35,13 +35,13 @@ body, html {
 }
 h {
    position: absolute;
-   font-size: 2rem;
+   font-size: 1rem;
    top: -3;
 }
 h, p {
    position: absolute;
    color: white;
-   transform: translateY(25%);
+   transform: translateY(30%);
    padding: 1em;
 }
 .report {
