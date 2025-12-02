@@ -31,7 +31,7 @@ body {
 }
 h, p {
    color: white;
-   top: -6%;
+   transform: translateY(10%);
    padding: 1em;
 }
 .report {
