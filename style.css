@@ -1,6 +1,9 @@
 body {
    text-align: center;
 }
+body, html {
+   overflow: auto;
+}
 .bgvid {
     position: relative;
     width: 100%;
@@ -15,7 +18,6 @@ body {
     top: 0;
     left: 0;
     z-index: 0;
-    background-size: cover;
 }
 .moveup {
    position: absolute;
@@ -30,7 +32,9 @@ body {
   font-style: oblique;
   font-variation-settings: "wdth" 700;
   color: white;
-  font-size: 3rem;
+}
+h {
+   font-size: 3rem;
 }
 h, p {
    position: absolute;
