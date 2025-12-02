@@ -31,10 +31,11 @@ body {
 }
 h, p {
    color: white;
-   top: 4%;
-   padding: 10em;
+   top: 1%;
+   padding: 1em;
 }
 .report {
    height: 7rem;
-   width: 50%;
+   width: 50rem;
+   border-radius: 3;
 }
