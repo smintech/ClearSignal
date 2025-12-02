@@ -50,6 +50,7 @@ h {
 }
 img {
    position: absolute;
+   display: inline-block;
    top: 6%;
    left:0;
    width: 98vh;
