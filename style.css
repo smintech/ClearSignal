@@ -32,11 +32,12 @@ body {
 h, p {
    position: absolute;
    color: white;
-   transform: translateY(10%);
+   transform: translateY(20%);
    padding: 1em;
 }
 .report {
    height: 7rem;
    width: 15rem;
+   transform: translateY(30%);
    border-radius: 15%;
 }
