@@ -50,9 +50,9 @@ h {
 }
 img {
    position: absolute;
-   top: 5%;
+   top: 6%;
    left:0;
-   width: 99vh;
+   width: 98vh;
    height: 28rem;
 }
 .report {
@@ -60,13 +60,13 @@ img {
    width: 17rem;
    transform: translateY(40rem);
    border-radius: 10%;
-   color: white;
-   background-color: green;
+   color: green;
+   background-color: white;
 }
 #select { 
    height: 3rem;
    width: 10rem;
    transform: translateY(35rem);
-   background-color: green;
-   color: white;
+   background-color: white;
+   color: green;
 }
