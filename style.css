@@ -62,15 +62,16 @@ img {
 .report {
    height: 7rem;
    width: 17rem;
-   transform: translateY(40rem);
+   transform: translateY(36rem);
    border-radius: 10%;
    color: green;
    background-color: white;
 }
 #select { 
-   height: 3rem;
+   height: 1.5rem;
    width: 10rem;
    transform: translateY(35rem);
    background-color: white;
    color: green;
+   border-radius: 0%;
 }
