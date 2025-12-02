@@ -19,14 +19,14 @@ body {
 .moveup {
    position: absolute;
    z-index: 1;
-   left: 25%;
+   left: 30%;
 }
 .roboto-font {
   font-family: "Roboto", sans-serif;
   font-optical-sizing: auto;
   font-weight: 900;
   font-style: oblique;
-  font-variation-settings: "wdth" 200;
+  font-variation-settings: "wdth" 700;
   color: white;
 }
 h, p {
@@ -37,7 +37,7 @@ h, p {
 }
 .report {
    height: 7rem;
-   width: 15rem;
+   width: 17rem;
    transform: translateY(50rem);
-   border-radius: 15%;
+   border-radius: 12%;
 }
