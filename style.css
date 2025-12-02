@@ -19,6 +19,7 @@ body {
 }
 .moveup {
    position: absolute;
+   top: 0%;
    z-index: 1;
    left: 30%;
 }
@@ -39,6 +40,6 @@ h, p {
 .report {
    height: 7rem;
    width: 17rem;
-   transform: translateY(50rem);
+   transform: translateY(45rem);
    border-radius: 12%;
 }
