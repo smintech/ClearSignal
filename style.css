@@ -75,3 +75,31 @@ img {
    color: green;
    border-radius: -3%;
 }
+.select-options {
+    display: none;
+    position: absolute;
+    width: 100%;
+    border: 1px solid #ccc;
+    border-top: none;
+    background-color: white;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    z-index: 10;
+}
+categorywrapper.open .select-options {
+    display: block;
+}
+.options-group {
+    display: none;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.category-group.expanded .options-group {
+    display: block;
+}
+.options-group li {
+    padding: 8px 10px 8px 25px;
+    cursor: pointer;
+}
