@@ -34,6 +34,7 @@ body, html {
   color: white;
 }
 h {
+   position: absolute;
    font-size: 3rem;
 }
 h, p {
@@ -45,6 +46,6 @@ h, p {
 .report {
    height: 7rem;
    width: 17rem;
-   transform: translateY(45rem);
-   border-radius: 12%;
+   transform: translateY(40rem);
+   border-radius: 10%;
 }
