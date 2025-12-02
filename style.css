@@ -36,6 +36,6 @@ h, p {
 }
 .report {
    height: 7rem;
-   width: 50rem;
-   border-radius: 3;
+   width: 20rem;
+   border-radius: 10;
 }
