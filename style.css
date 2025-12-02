@@ -75,6 +75,9 @@ img {
    color: green;
    border-radius: -3%;
 }
+.categorywrapper {
+   transform: translateY(40rem);
+}
 .select-options {
     display: none;
     position: absolute;
