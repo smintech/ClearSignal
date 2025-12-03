@@ -116,10 +116,11 @@ img {
    display: none;
 }
 #charcount {
+   position: absolute;
    color: black;
    font-weight: bold;
    font-size: 0.5rem;
-   transform: translate(-9.5rem,40rem);
+   transform: translate(-7rem,39.8rem);
 }
 #submitbtn {
     position: absolute;
