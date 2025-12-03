@@ -59,7 +59,7 @@ img {
    margin: auto;
    z-index: 0;
 }
-.report {
+#report {
    height: 7rem;
    width: 17rem;
    transform: translate(-5rem,34rem);
