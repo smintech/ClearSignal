@@ -48,6 +48,7 @@ reportBox.addEventListener('input', function () {
 submitBtn.addEventListener('click', function () {
     if (reportBox.value.length < 20) {
         errorMsg.style.display = 'block';
+        alert("Enter Atleast 20 Texts");
     } else {
         errorMsg.style.display = 'none';
         alert("Report Submitted!");
