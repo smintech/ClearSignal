@@ -117,7 +117,7 @@ img {
 }
 #charcount {
    position: absolute;
-   color: black;
+   color: green;
    font-weight: bold;
    font-size: 0.5rem;
    transform: translate(11rem,39.8rem);
@@ -133,7 +133,7 @@ img {
 footer {
     position: absolute;
     text-align: center;
-    transform: translate(12rem,99rem);
+    transform: translate(11rem,99rem);
     color: white;
     font-weight: 900;
     font-size: 1.5rem;
