@@ -112,7 +112,7 @@ img {
     font-weight: 900;
     font-size: 2rem;
 }
-#submit {
+#submitbtn {
     position: absolute;
     transform: translate(10rem,43rem);
     font-size: 3rem;
