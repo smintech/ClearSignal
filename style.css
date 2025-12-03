@@ -112,8 +112,9 @@ img {
     font-weight: 900;
     font-size: 2rem;
 }
-#charcount,#error {
+#charcount,{
    color: white;
+   transform: translate(14.1rem,36.4rem);
 }
 #submitbtn {
     position: absolute;
