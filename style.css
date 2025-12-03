@@ -114,8 +114,8 @@ img {
 }
 #submitbtn {
     position: absolute;
-    transform: translate(14.5rem,35rem);
-    font-size: 2rem;
+    transform: translate(14.3rem,36.5rem);
+    font-size: 1.5rem;
     font-weight: 900;
     background-color: white;
     color: green;
