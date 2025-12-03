@@ -113,12 +113,13 @@ img {
     font-size: 2rem;
 }
 #error {
+   display: none;
    color: black;
    transform: translateY(40rem);
 }
 #charcount {
    color: black;
-   transform: translate(7rem,36.4rem);
+   transform: translate(2rem,36.4rem);
 }
 #submitbtn {
     position: absolute;
