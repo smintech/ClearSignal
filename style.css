@@ -123,7 +123,8 @@ img {
 }
 footer {
     position: absolute;
-    transform: translateY(70rem);
+    text-align: center;
+    transform: translateY(90rem);
     color: white;
 }
     
