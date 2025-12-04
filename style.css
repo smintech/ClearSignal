@@ -132,7 +132,7 @@ img {
     color: green;
 }
 #container {
-    transform: translate(8.9rem,43rem);
+    transform: translate(8.9rem,45rem);
     display: flex;
     flex-wrap: wrap;
     gap: 10px;
@@ -151,6 +151,9 @@ img {
     height: 120px;
     object-fit: cover;
     border-radius: 6px;
+}
+#fileinput { 
+   transform: translate(8.9rem,23rem);
 }
 #lawrule {
    position: absolute;
