@@ -133,7 +133,7 @@ img {
 }
 #lawrule {
    position: absolute;
-   transform: translate(5rem,98rem);
+   transform: translate(0rem,98rem);
    color: white;
    font-weight: 900;
    font-size: 1.5rem;
