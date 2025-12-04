@@ -157,7 +157,8 @@ img {
    transform: translate(5rem,44rem);
 }
 #lawrule {
-   position: absolute;
+   position: sticky;
+   bottom: 5;
    transform: translate(0rem,94rem);
    color: white;
    font-weight: 900;
