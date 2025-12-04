@@ -132,17 +132,17 @@ img {
 }
 #lawrule {
    position: absolute;
-   transform: translate(11rem,97rem);
+   transform: translate(11rem,90rem);
    color: white;
-   font-weight: 900;
+   font-weight: 800;
    font-size: 1.5rem;
 }
 footer {
     position: absolute;
     text-align: center;
-    transform: translate(11rem,99rem);
+    transform: translate(11rem,98rem);
     color: white;
-    font-weight: 900;
+    font-weight: 800;
     font-size: 1.5rem;
 }
     
