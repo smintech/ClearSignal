@@ -58,3 +58,23 @@ submitBtn.addEventListener('click', function () {
         charCount.textContent = "0 / 1000";
     }
 });
+document.addEventListener("DOMContentLoaded", () => {
+    const fileInput = document.getElementById("fileinput");
+    const container = document.getElementById("container");
+
+    function loadFile() {
+        container.innerHTML += `<img src="${this.result}" />`;
+    }
+
+    function addMultipleFiles() {
+        container.innerHTML = "";
+
+        for (const file of this.files) {
+            let reader = new FileReader();
+            reader.addEventListener("load", loadFile);
+            reader.readAsDataURL(file);
+        }
+    }
+
+    fileInput.addEventListener("change", addMultipleFiles);
+});
