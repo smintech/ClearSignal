@@ -130,6 +130,12 @@ img {
     background-color: white;
     color: green;
 }
+#lawrule {
+   transform: translate(11rem,98rem);
+   color: white;
+   font-weight: 900;
+   font-size: 1.5rem;
+}
 footer {
     position: absolute;
     text-align: center;
