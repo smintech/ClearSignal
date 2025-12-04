@@ -158,8 +158,7 @@ img {
 }
 #lawrule {
    position: sticky;
-   bottom: 5;
-   transform: translate(0rem,94rem);
+   bottom: 90;
    color: white;
    font-weight: 900;
    font-size: 1.5rem;
@@ -168,7 +167,7 @@ img {
 }
 footer {
     text-align: center;
-    transform: translateX(98rem);
+    transform: translateX(90rem);
     color: white;
     font-weight: 900;
     font-size: 1.5rem;
