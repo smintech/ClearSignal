@@ -154,11 +154,11 @@ img {
     border-radius: 6px;
 }
 #fileinput { 
-   transform: translate(7rem,44rem);
+   transform: translate(5rem,44rem);
 }
 #lawrule {
    position: absolute;
-   transform: translate(0rem,98rem);
+   transform: translate(0rem,90rem);
    color: white;
    font-weight: 900;
    font-size: 1.5rem;
@@ -168,7 +168,7 @@ img {
 footer {
     position: absolute;
     text-align: center;
-    transform: translate(8rem,98.5rem);
+    transform: translate(8rem,92rem);
     color: white;
     font-weight: 900;
     font-size: 1.5rem;
