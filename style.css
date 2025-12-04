@@ -110,7 +110,8 @@ img {
     padding: 4px 0;
     cursor: pointer;
     font-weight: 900;
-    font-size: 2rem;
+    font-size: 1.5rem;
+    white-space: nowrap;
 }
 #error {
    display: none;
