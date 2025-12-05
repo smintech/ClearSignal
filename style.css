@@ -3,7 +3,7 @@ html {
 }
 body {
    position: relative;
-   min-height: 100vh !important;
+   min-height: 100vh;
    text-align: center;
     background-image: url("IMG_3731.png");
     background-size: cover;
