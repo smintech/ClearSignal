@@ -15,7 +15,7 @@ body, html {
     position: relative;
     text-align: center;
     top: 0;
-    left: 20rem;
+    left: 15rem;
     font-size: 1.3rem;
     width: 20rem;
 }
@@ -39,10 +39,11 @@ body, html {
    color: white;
    top: 1%;
    left: 5rem;
+   white-space: nowrap;
 }
-.ratel img {
+.ratel {
    position: static;
-   margin-top: 5rem;
+   margin-top: 6rem;
    width: 100vh;
    height: 10%;
 }
