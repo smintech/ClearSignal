@@ -113,10 +113,10 @@ body, html {
    font-size: 0.5rem;
 }
 #submitbtn {
-    position: absolute;
-    display: flex
+   position: absolute;
+    display: flex;
     left: 40%;
-   margin-top: 40%;
+    margin-top: 40%;
     font-size: 1.5rem;
     font-weight: 900;
     background-color: white;
