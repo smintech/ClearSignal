@@ -56,14 +56,10 @@ h {
    left: 5rem;
 }
 img {
-   position: absolute;
-   display: flex;
-   top: 6%;
-   left:0;
-   width: 99vh;
-   height: 31rem;
-   margin: auto;
-   z-index: 0;
+   width: 100%;
+   height: auto;
+   display: block;
+   margin: 0 auto;
 }
 #report {
    height: 7rem;
