@@ -15,10 +15,9 @@ body, html {
     position: relative;
     text-align: center;
     top: 0;
-    left: 0;
-   font-size: 1.3rem;
-   margin-top: 0rem;
-   width: 20rem;
+    left: 20rem;
+    font-size: 1.3rem;
+    width: 20rem;
 }
 .moveup {
    position: relative;
