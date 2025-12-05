@@ -127,7 +127,7 @@ body, html {
     color: green;
 }
 #container {
-    position: fixed;
+    position: sticky;
     display: flex;
     flex-wrap: wrap;
     gap: 10px;
