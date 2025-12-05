@@ -20,11 +20,12 @@ body, html {
     width: 20%;
 }
 .moveup {
-   position: absolute;
+   position: relative;
    display: flex;
    top: 10%;
    display: flex;
    z-index: 1;
+   left: 0;
 }
 .roboto-font {
   font-family: "Roboto", sans-serif;
