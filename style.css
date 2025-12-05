@@ -139,7 +139,7 @@ body, html {
     left: 13%;
     max-height: 20%;
     overflow-x: auto;
-    overflow-y: auto;
+    overflow-y: hidden;
     border-radius: 6px;
 }
 .preview-box img,
@@ -159,7 +159,6 @@ body, html {
 .footer {
     position: absolute;
     display: flex;
-    text-decoration: none;
     left: 50%;
     color: white;
     bottom: 0;
@@ -168,4 +167,10 @@ body, html {
     font-size: 1.5rem;
     white-space: nowrap;
 }
+.footer #lawrule {
+    left: 50%;
+    text-decoration: none;
+    color: white;
+}
+
     
