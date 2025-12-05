@@ -165,19 +165,17 @@ body, html {
 }
 }
 #lawrule {
-    display: block;
-    bottom: 0;
-    left: 80%;
+    position: flex;
+    margin-top: 70%;
     text-decoration: none;
     color: white;
 }
 .footer p {
     position: flex;
     display: flex;
-    left: 70%;
     color: white;
-    margin-top: 50%;
-    transform: translateX(-30%);
+    margin-top: 80%;
+    transform: translateX(-20%);
     font-weight: 900;
     font-size: 1.5rem;
     white-space: nowrap;
