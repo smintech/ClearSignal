@@ -58,7 +58,8 @@ body, html {
 .categorywrapper{ 
    position: absolute;
    display: flex;
-   margin-top: 40%;
+   margin-top: 50%;
+   left: 10%;
    height: 1.5rem;
    width: 15rem;
    background-color: green;
@@ -115,8 +116,8 @@ body, html {
 #submitbtn {
    position: absolute;
     display: flex;
-    left: 40%;
-    margin-top: 40%;
+    left: 50%;
+    margin-top: 38%;
     font-size: 1.5rem;
     font-weight: 900;
     background-color: white;
@@ -130,7 +131,8 @@ body, html {
     border: none;
     background: transparent;
     width: 100%;
-    margin-top: 50%;
+    margin-top: 55%;
+    left: 10%;
     max-height: 20%;
     overflow-y: auto;
     border-radius: 6px;
