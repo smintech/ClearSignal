@@ -51,12 +51,12 @@ body, html {
    background-color: white;
    z-index: 0;
    margin-top: 25%;
-   left: 20%;
+   left: 10%;
 }
 .categorywrapper{ 
    position: absolute;
-   left: 20%;
-   margin-top: 30%;
+   left: 10%;
+   margin-top: 40%;
    height: 1.5rem;
    width: 15rem;
    background-color: green;
@@ -110,6 +110,7 @@ body, html {
 }
 #submitbtn {
     position: absolute;
+    margin-top: 30%;
     left: 40%;
     font-size: 1.5rem;
     font-weight: 900;
