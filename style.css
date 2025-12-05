@@ -220,4 +220,6 @@ body, html {
     text-align: center !important;
     text-decoration: none;
     white-space: normal;
+    overflow-x: hidden;
+    overflow-y: auto;
 }
