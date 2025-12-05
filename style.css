@@ -1,6 +1,6 @@
 body {
    position: relative;
-   height: 100%;
+   height: 100vh;
    text-align: center;
     background-image: url("IMG_3731.png");
     background-size: cover;
@@ -15,7 +15,7 @@ body, html {
     position: relative;
     text-align: center;
     top: 0;
-    left: 15%;
+    left: 20%;
     font-size: 10%;
     width: 20%;
 }
