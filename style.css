@@ -205,7 +205,6 @@ body, html {
 
 #about-section {
     display: none;
-    display: flex;
     margin-top: 75%;
     padding: 1.5rem;
     background: green;
@@ -221,8 +220,14 @@ body, html {
     text-decoration: none;
     white-space: normal;
     overflow-x: hidden;
-    overflow-y: auto;
+    
+}
+#about-section p {
     word-wrap: break-word;
     word-break: break-word;
     white-space: normal;
+    overflow-y: auto;
+    overflow-x: auto;
+    text-overflow: ellipsis;
 }
+    
