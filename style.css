@@ -22,7 +22,7 @@ body, html {
 .moveup {
    position: relative;
    display: flex;
-   transform: translateY(40%);
+   transform: translateY(50%);
    z-index: 1;
    left: 0;
 }
