@@ -164,7 +164,7 @@ body, html {
    left: 10%;
 }
 }
-.footer #lawrule {
+#lawrule {
     display: block;
     bottom: 0;
     left: 80%;
@@ -177,7 +177,7 @@ body, html {
     left: 70%;
     color: white;
     margin-top: 50%;
-    transform: translateX(-50%);
+    transform: translateX(-30%);
     font-weight: 900;
     font-size: 1.5rem;
     white-space: nowrap;
