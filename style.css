@@ -59,7 +59,7 @@ body, html {
    position: absolute;
    display: flex;
    margin-top: 55%;
-   left: 10%;
+   left: 0;
    height: 1.5rem;
    width: 15rem;
    background-color: green;
@@ -72,8 +72,9 @@ body, html {
 }
 .select-header {
     background: white;
+    white-space: nowrap;
     padding: 8px;
-    left: 0;
+    left: 10%;
 }
 .select-options {
     display: none;
@@ -162,6 +163,7 @@ body, html {
     font-size: 1.5rem;
     text-decoration: none;
     text-align: center;
+    white-space: nowrap;
 }
 footer {
     display: flex
