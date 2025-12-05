@@ -8,7 +8,7 @@ body {
 }
 body, html {
    overflow-x: auto;
-   overflow-y: hidden;
+   overflow-y: auto;
 }
 .header {
     position: relative;
@@ -50,11 +50,9 @@ body, html {
    left: 5rem;
 }
 .ratel img {
-   top: 5%;
-   width: 100%;
-   height: 20%;
-   display: block;
-   margin: 0 auto;
+   top: 6%;
+   width: 100rem;
+   height: 5%;
 }
 #report {
    height: 7rem;
