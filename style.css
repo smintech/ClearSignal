@@ -8,7 +8,7 @@ body {
     background-image: url("IMG_3731.png");
     background-size: cover;
     background-position: center;
-    background-repeat: repeat;
+    background-repeat: repeat-y;
 }
 body, html {
    overflow-x: auto;
