@@ -171,7 +171,7 @@ body, html {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    margin-top: 68%;
+    margin-top: 70%;
     white-space: nowrap;
     font-weight: 900;
     transform: none !important;
@@ -183,8 +183,11 @@ body, html {
     margin-left: auto;
     margin-right: auto;
     color: white;
-    text-decoration: underline;
+    text-decoration: none;
     white-space: nowrap;
+}
+#lawrule {
+   text-decoration: underline;
 }
 .top-links {
     margin-top: 20px;
@@ -202,15 +205,17 @@ body, html {
 
 #about-section {
     display: none;
-    margin-top: 80%;
+    margin-top: 75%;
     padding: 1.5rem;
     background: green;
     backdrop-filter: blur(4px);
     border-radius: 10px;
     width: 90%;
+    font-weight: 900;
     max-width: 600px;
     color: white;
     margin-left: auto;
     margin-right: auto;
     text-align: center !important;
+    text-decoration: none;
 }
