@@ -42,10 +42,10 @@ body, html {
    left: 31%;
    white-space: nowrap;
 }
-#report {
+.moveup #report {
+   position: absolute;
    height: 7rem;
    width: 17rem;
-   transform: translate(-5rem,34rem);
    border-radius: -2% 5%;
    color: green;
    background-color: white;
@@ -55,7 +55,6 @@ body, html {
    position: absolute;
    height: 1.5rem;
    width: 15rem;
-   transform: translate(8.9rem,41.5rem);
    background-color: green;
    color: green;
    font-weight: 700;
@@ -104,18 +103,15 @@ body, html {
    color: green;
    font-weight: bold;
    font-size: 0.5rem;
-   transform: translate(10.1rem,39.8rem);
 }
 #submitbtn {
     position: absolute;
-    transform: translate(12.5rem,36.4rem);
     font-size: 1.5rem;
     font-weight: 900;
     background-color: white;
     color: green;
 }
 #container {
-    transform: translate(8rem,44.7rem);
     display: flex;
     flex-wrap: wrap;
     gap: 10px;
@@ -137,7 +133,7 @@ body, html {
     border-radius: 6px;
 }
 #fileinput { 
-   transform: translate(5rem,44rem);
+   position: absolute;
 }
 #lawrule {
     position: relative;
