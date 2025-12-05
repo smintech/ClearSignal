@@ -7,7 +7,8 @@ body {
     background-repeat: no-repeat;
 }
 body, html {
-   overflow: hidden;
+   overflow-x: hidden;
+   overflow-y: auto;
 }
 .bgvid {
     position: relative;
@@ -162,13 +163,14 @@ img {
    transform: translate(5rem,44rem);
 }
 #lawrule {
-   
-   bottom: 50%;
-   color: white;
-   font-weight: 900;
-   font-size: 1.5rem;
-   white-space: nowrap;
-   text-decoration: none;
+    position: relative;
+    display: block;
+    margin-bottom: 10px; 
+    color: white;
+    font-weight: 900;
+    font-size: 1.5rem;
+    text-decoration: none;
+    text-align: center;
 }
 footer {
     text-align: center;
