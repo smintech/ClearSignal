@@ -55,6 +55,7 @@ h {
    left: 5rem;
 }
 .ratel img {
+   top: 5%;
    width: 100%;
    height: 30%;
    display: block;
@@ -168,6 +169,7 @@ h {
     text-align: center;
 }
 footer {
+    bottom: 0;
     text-align: center;
     color: white;
     font-weight: 900;
