@@ -59,9 +59,9 @@ body, html {
    display: flex;
    flex-direction: column;
    margin-top: 55%;
-   left: 8%;
+   left: 7%;
    height: 1.5rem;
-   width: 10rem;
+   width: 18.9rem;
    background-color: green;
    color: green;
    font-weight: 700;
@@ -108,6 +108,7 @@ body, html {
    display: none;
 }
 #charcount {
+   position: absolute;
    display: flex;
    margin-top: 52%;
    left: 70%;
