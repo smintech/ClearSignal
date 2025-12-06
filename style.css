@@ -61,7 +61,7 @@ body, html {
    position: absolute;
    display: flex;
    flex-direction: column;
-   margin-top: 45vh !important;
+   margin-top: 43vh !important;
    left: 10vw;
    height: 1.5rem;
    width: 50vw;
@@ -117,8 +117,8 @@ body, html {
 #charcount {
    position: absolute;
    display: flex;
-   margin-top: 40vh;
-   right: 40vw;
+   margin-top: 38vh;
+   right: 42vw;
    color: green;
    font-weight: bold;
    font-size: 0.5rem;
@@ -126,8 +126,8 @@ body, html {
 #submitbtn {
    position: absolute;
     display: flex;
-    left: 65vw;
-    margin-top: 32vh;
+    left: 63vw;
+    margin-top: 30vh;
     font-size: 1.5rem;
     font-weight: 900;
     background-color: white;
@@ -142,7 +142,7 @@ body, html {
     border: none;
     background: transparent;
     width: 100vw;
-    margin-top: 50vh !important;
+    margin-top: 47vh !important;
     left: 13vw;
     max-height: 20vh;
     overflow-x: auto;
@@ -160,7 +160,7 @@ body, html {
 #fileinput { 
    position: absolute;
    display: flex;
-   margin-top: 22vh;
+   margin-top: 20vh;
    left: 10vw;
 }
 .footer {
@@ -168,7 +168,7 @@ body, html {
     width: 100vw;
     text-align: center !important;
     display: flex;
-    margin-top: 68vh !important;
+    margin-top: 80vh !important;
     flex-direction: column;
     align-items: center;
     justify-content: center;
