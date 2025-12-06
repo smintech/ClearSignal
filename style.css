@@ -60,9 +60,8 @@ body, html {
 .categorywrapper{ 
    position: relative;
    display: flex;
-   flex-wrap: wrap;
    flex-direction: column;
-   margin-top: 30vh !important;
+   margin-top: 35vh !important;
    left: 10vw;
    height: 1.5rem;
    width: 50vw;
