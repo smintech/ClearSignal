@@ -58,11 +58,11 @@ body, html {
    left: 10vw;
 }
 .categorywrapper{ 
-   position: absolute;
+   position: relative;
    display: flex;
    flex-wrap: wrap;
    flex-direction: column;
-   margin-top: 43vh !important;
+   margin-top: 30vh !important;
    left: 10vw;
    height: 1.5rem;
    width: 50vw;
@@ -82,7 +82,7 @@ body, html {
     margin: 0;
 }
 .select-options {
-    position: sticky;
+    height: auto;
     display: none;
     margin-top: 5px;
     padding-left: 0;
@@ -91,8 +91,6 @@ body, html {
 }
 .categorywrapper.open .select-options {
     display: block;
-    height: 5rem;
-    overflow-y: auto;
 }
 .category-group {
     padding: 6px;
@@ -105,7 +103,6 @@ body, html {
 }
 .category-group.expanded .options-group {
     display: block;
-    position: sticky;
     overflow-y: auto;
 }
 .options-group li {
