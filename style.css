@@ -49,7 +49,7 @@ body, html {
    position: absolute;
    display: flex;
    height: 7rem;
-   width: 17rem;
+   width: 17vw;
    border-radius: -2% 5%;
    color: green;
    background-color: white;
@@ -58,10 +58,10 @@ body, html {
    left: 10vw;
 }
 .categorywrapper{ 
-   position: absolute;
+   position: relative;
    display: flex;
    flex-direction: column;
-   margin-top: 55vh !important;
+   margin-top: 50vh !important;
    left: 10.5vw;
    height: 1.5rem;
    width: 18rem;
@@ -115,9 +115,9 @@ body, html {
    display: none;
 }
 #charcount {
-   position: absolute;
+   position: relative;
    display: flex;
-   margin-top: 52vh;
+   margin-top: 45vh;
    left: 70vw;
    color: green;
    font-weight: bold;
